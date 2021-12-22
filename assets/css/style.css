@@ -1,0 +1,71 @@
+body{
+    margin: 0 !important;
+    padding:0 !important;
+    box-sizing: border-box;
+   
+}
+:root{
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+/*---------css styling start from here--------------*/
+
+/*----------page headding---------------*/
+
+.page-headding{
+    width: 95%;
+    margin: auto;
+  }
+  .page-headding h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .page-headding h4{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .page-headding h6{
+    text-align: center;
+    font-size:20px;
+    font-weight:600;
+  }
+  /*---------------content box------------*/
+  .page-headding h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .row-content h4{
+    text-align: center;
+    font-size: 22x;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .row-content h6{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .info{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  table{
+    width: 100%;
+  }
+
+  .myclass td{
+    width: 73.9%;
+  }
